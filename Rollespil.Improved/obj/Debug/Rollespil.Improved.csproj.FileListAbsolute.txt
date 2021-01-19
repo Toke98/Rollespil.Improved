@@ -1,0 +1,15 @@
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\bin\Debug\Rollespil.Improved.exe.config
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\bin\Debug\Rollespil.Improved.exe
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\bin\Debug\Rollespil.Improved.pdb
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\Rollespil.Improved.csprojAssemblyReference.cache
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\MainWindow.g.cs
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\App.g.cs
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\Rollespil.Improved_MarkupCompile.cache
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\Rollespil.Improved_MarkupCompile.lref
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\MainWindow.baml
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\Rollespil.Improved.g.resources
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\Rollespil.Improved.Properties.Resources.resources
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\Rollespil.Improved.csproj.GenerateResource.cache
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\Rollespil.Improved.csproj.CoreCompileInputs.cache
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\Rollespil.Improved.exe
+C:\Users\tokek\source\repos\Rollespil.Improved\Rollespil.Improved\obj\Debug\Rollespil.Improved.pdb
